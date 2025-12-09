@@ -1,4 +1,3 @@
-import React from 'react';
 import WorkflowBuilder from './components/WorkflowBuilder';
 
 export default function App() {
